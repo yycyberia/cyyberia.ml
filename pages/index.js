@@ -11,6 +11,38 @@ export default function Home() {
 
       <main>
         <h1>cyyberia yyc</h1>
+        <h2>Mission and Objects</h2>
+        <h3>Mission</h3>
+        <ol>
+          <li>To establish and operate an open, collaborative space for the advancement of
+technological innovation, creativity and learning within the Calgary Capital
+Region.
+</li>
+        </ol>
+        <h3>Objects</h3>
+        <ol>
+          <li>
+            To lease, purchase, or otherwise acquire physical facilities to house operations terial accumulated by The Society, especially including (but not arily limited to) a physical workspace for use by Members.
+          </li>
+          <li>
+            To promote innovative, creative and social interactions among individual s and The Society as a whole.
+          </li>
+          <li>
+            To facilitate collaborative projects amongst The Society Membership whenever le.
+          </li>
+          <li>
+            To ensure that operations of The Society intend some real or perceived benefit Society Members as a whole and/or the city of Calgary or its citizens, e not solely commercial in nature.
+          </li>
+          <li>
+            To raise funds to achieve the objects of The Society as thus described. This es accepting gifts, grants, legacies, sponsorships, bequests, and tances.
+          </li>
+          <li>
+            If deemed necessary, to borrow funds and lease, mortgage, sell and dispose of ty of The Society and establish a line of credit to achieve the objects of ciety.
+          </li>
+          <li>
+            To use funds of The Society only according to and in pursuit of these objects as defined in Section 1.2.
+          </li>
+        </ol>
       </main>
     </div>
   )
